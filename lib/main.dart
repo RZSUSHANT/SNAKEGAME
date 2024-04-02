@@ -15,6 +15,7 @@ class SnakeGame extends StatelessWidget {
       ),
       home: GamePage(),
     );
+    //okok
   }
 }
 
